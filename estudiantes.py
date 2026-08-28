@@ -1,4 +1,4 @@
-#Ejercicio SimPy + Random + Colorama
+#Ejercicio 1 SimPy + Random + Colorama
 #Importando librerias
 import simpy, random
 from colorama import Fore, Style
