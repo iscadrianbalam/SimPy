@@ -1,6 +1,5 @@
 # SimPy para simular eventos discretos con Python
 ## Elaborado por: ISC. Luis Adrian Balam Espadas
-## Simulación, ISC, TecNM Campus Valladolid
 
 ![Modelo de la cafetería](img/modelo.jpg)
 
