@@ -2,6 +2,11 @@
 ## Elaborado por: ISC. Luis Adrian Balam Espadas
 ## Simulación, ISC, TecNM Campus Valladolid
 
+![Modelo de la cafetería](img/modelo.jpg)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SimPy](https://img.shields.io/badge/SimPy-Simulation-orange)
+
 La simulación es el cómo conocemos el comportamiento de algo sobre un contexto, sin alterar el sistema real ni invertir dinero o tiempo. Nos permite saber que tan factible es una decisión operativa de forma previa.
 
 # Cómo empiezo?
